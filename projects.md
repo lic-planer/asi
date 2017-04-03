@@ -138,6 +138,7 @@ Pull request według schematu:
 ```
 
 1. [Patryk Pobłocki](https://github.com/ppoblocki/egzaminRails). [PinTab!](https://fast-shore-79390.herokuapp.com/)
+2. [OJA](https://github.com/lic-planer/ruby_zespolowy). [Filmy animowane](https://shrouded-ocean-49748.herokuapp.com/)
 
 
 **Uwaga:** W pliku _README.md_ w repo należy wpisać wszystkich autorów aplikacji.
